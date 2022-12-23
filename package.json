@@ -1,0 +1,20 @@
+{
+  "name": "@norniras/ts-config",
+  "version": "1.0.0",
+  "files": [
+    "base.json"
+  ],
+  "author": "Jevgeni Glazunov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NornirAS/ts-config.git"
+  },
+  "homepage": "https://github.com/NornirAS/ts-config#README.md",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "peerDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
